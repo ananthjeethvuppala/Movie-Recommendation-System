@@ -1,0 +1,15 @@
+# Ignores virtual environment
+movienv/
+
+# Ignores Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignores Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignores system files
+.DS_Store
+Thumbs.db
